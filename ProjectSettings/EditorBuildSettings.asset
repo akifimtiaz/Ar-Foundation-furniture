@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 869e99b8b03164941aaf7d72dde0178f
+  - enabled: 1
+    path: Assets/Scenes/Chair.unity
+    guid: 8252358a1e2ba7549a94df43aacec984
+  - enabled: 1
+    path: Assets/Scenes/Frame.unity
+    guid: f2dace713bdc27349ab71c23a3252ada
+  m_configObjects:
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
